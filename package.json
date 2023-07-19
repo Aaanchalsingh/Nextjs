@@ -1,5 +1,5 @@
 {
-  "name": "next",
+  "name": "auth-nextjs-youtube",
   "version": "0.1.0",
   "private": true,
   "scripts": {
@@ -9,24 +9,23 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@types/node": "20.4.2",
-    "@types/react": "18.2.15",
-    "@types/react-dom": "18.2.7",
+    "@types/node": "20.3.2",
+    "@types/react": "18.2.14",
+    "@types/react-dom": "18.2.6",
     "autoprefixer": "10.4.14",
     "axios": "^1.4.0",
     "bcryptjs": "^2.4.3",
-    "dotenv": "^16.3.1",
-    "eslint": "8.45.0",
-    "eslint-config-next": "13.4.10",
-    "jsonwebtoken": "^9.0.1",
-    "mongoose": "^7.3.4",
-    "next": "13.4.10",
+    "eslint": "8.43.0",
+    "eslint-config-next": "13.4.7",
+    "jsonwebtoken": "^9.0.0",
+    "mongoose": "^7.3.1",
+    "next": "13.4.7",
     "nodemailer": "^6.9.3",
-    "postcss": "8.4.26",
+    "postcss": "8.4.24",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-hot-toast": "^2.4.1",
-    "tailwindcss": "3.3.3",
+    "tailwindcss": "3.3.2",
     "typescript": "5.1.6"
   },
   "devDependencies": {
